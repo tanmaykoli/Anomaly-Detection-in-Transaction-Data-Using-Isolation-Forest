@@ -43,6 +43,11 @@ Synthetic transaction dataset containing:
 - Try One-Class SVM
 - Build real-time detection pipeline
 
+## How to Run
+pip install -r requirements.txt
+jupyter notebook
+Run all cells
+
 ## Author
 Tanmay Koli
 
